@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">時刻検索</string>
+    <string name="app_bt_stationSearch">駅検索</string>
+    <string name="app_arrow">→</string>
+    <string name="app_bt_reload">更新</string>
+    <string name="app_bt_myStation">My駅間登録</string>
+    <string name="app_bt_myStation_select">My駅間選択</string>
+    <string name="app_start">発</string>
+    <string name="app_destination">行</string>
+    <string name="app_platformNumber">番線</string>
+    <string name="app_isTransfer">乗り換えあり</string>
+    <string name="app_ato">あと</string>
+    <string name="app_minute">分</string>
+    <string name="app_station">駅</string>
+    <string name="app_no_myStations">My駅間が登録されていません。アプリ初期設定の駅間を表示します。</string>
+    <string name="app_myStations_load_error_log">最新のMy駅間ロード中にエラー</string>
+    <string name="app_myStations_load_error_toast">My駅間の読み込み中にエラーが発生しました</string>
+
+    <string name="stationSearch_name">駅検索</string>
+
+    <string name="myStation_name">My駅間登録</string>
+
+    <string name="all_start">出発駅</string>
+    <string name="all_destination">到着駅</string>
+    <string name="all_cancel">キャンセル</string>
+    <string name="all_commit">確定</string>
+    <string name="all_delete">削除</string>
+
+    <string name="screen_title">駅間登録画面</string>
+    <string name="my_stations_alert">この駅間はすでに登録されています。</string>
+    <string name="my_station_added_message">をMy駅間に登録しました！</string>
+    <string name="my_station_failure_message">My駅間の登録に失敗しました</string>
+    <string name="my_station_database_error">データベース...機嫌悪いかも...?</string>
+
+    <string name="user_memo_added_message">ユーザメモを保存しました！</string>
+    <string name="user_memo_failure_message">ユーザメモの保存に失敗しました…</string>
+    <string name="user_memo_deleted_message">ユーザメモを削除しました！</string>
+    <string name="user_memo_delete_failure_message">ユーザメモの削除に失敗しました…</string>
+
+    <string name="edit_usermemo_title">ユーザメモ編集</string>
+    <string name="station_search">の時刻表を表示します。</string>
+    <string name="station_search_canceled_message">キャンセルしました。</string>
+    <string name="station_search_same_stations_message">出発駅と到着駅に同じ駅は指定できません</string>
+
+    <string-array name="station_names">
+        <item>熱海</item>
+        <item>函南</item>
+        <item>三島</item>
+        <item>沼津</item>
+        <item>片浜</item>
+        <item>原</item>
+        <item>東田子の浦</item>
+        <item>吉原</item>
+        <item>富士</item>
+        <item>富士川</item>
+        <item>新浦原</item>
+        <item>浦原</item>
+        <item>由比</item>
+        <item>興津</item>
+        <item>清水</item>
+        <item>草薙</item>
+        <item>東静岡</item>
+        <item>静岡</item>
+        <item>安倍川</item>
+        <item>用宗</item>
+        <item>焼津</item>
+        <item>西焼津</item>
+        <item>藤枝</item>
+        <item>六合</item>
+        <item>島田</item>
+        <item>金谷</item>
+        <item>菊川</item>
+        <item>掛川</item>
+        <item>愛野</item>
+        <item>袋井</item>
+        <item>御厨</item>
+        <item>磐田</item>
+        <item>豊田町</item>
+        <item>天竜川</item>
+        <item>浜松</item>
+
+
+    </string-array>
+
+
+</resources>
